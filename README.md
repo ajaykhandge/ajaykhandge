@@ -1,7 +1,7 @@
 # 💫About Me :
   - 👋 Hi, I’m @ajaykhandge
   - ✍️ I'm currently working as Software Engineer Intern at Salease.
-  - 👀 I’m interested in Web Development & building Android App
+  - 👀 I’m interested in Web Development & building Android Apps.
   - 🌱 I’m currently persuing Bachelors in Computer Engineering at VIT Pune.
   - 📫 Reach out me @ ajaykhandge88@gmail.com
 
