@@ -1,9 +1,9 @@
 # 💫About Me :
   - 👋 Hi, I’m @ajaykhandge
-  - ✍️ I'm currently working as Software Engineer Intern at Salease.
-  - 👀 I’m interested in Web Development & building Android Apps.
-  - 🌱 I’m currently persuing Bachelors in Computer Engineering at VIT Pune.
-  - 📫 Reach out me @ ajaykhandge88@gmail.com
+  - ✍️ I'm currently working as Software Engineer at J.P Morgan Chase.
+  - 👀 I’m interested in Backend Development & building Scaleable Apps
+  - 🌱 I hold Bachelors in Computer Engineering from VIT Pune.
+  - 📫 Reach out me @ ajaykhandge2000@gmail.com
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ajaykhandge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-khandge-40b739192/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KhandgeAjay) 
